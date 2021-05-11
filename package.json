@@ -20,7 +20,7 @@
   "homepage": "https://github.com/MrityunjayBhardwaj/Reinforcement-Learning-in-JS#readme",
   "dependencies": {
     "file-saver": "^2.0.5",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "lodash-es": "^4.17.15"
   },
   "devDependencies": {
